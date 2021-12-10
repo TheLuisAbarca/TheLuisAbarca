@@ -28,8 +28,9 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheLuisAbarca&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 
-
-[![wakatime](https://wakatime.com/badge/user/1de6f5a7-4749-4784-bc72-8c024001ae0d.svg?style=social)](https://wakatime.com/@1de6f5a7-4749-4784-bc72-8c024001ae0d)
+<!--
+[![wakatime](https://wakatime.com/badge/user/APIKEY.svg?style=social)](https://wakatime.com/@APIKEY)
+-->
 [<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/TheLuisAbarca?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social">](https://github.com/TheLuisAbarca?tab=repositories&q=&type=&language=&sort=stargazers)
 [<img alt="GitHub followers" src="https://img.shields.io/github/followers/TheLuisAbarca?&logoColor=red&style=social">](https://github.com/TheLuisAbarca?tab=followers)
 [<img alt="GitHub forks" src="https://img.shields.io/github/forks/TheLuisAbarca/TranslatorSelenium?logoColor=red&style=social">](https://github.com/TheLuisAbarca/TranslatorSelenium/network/members)
@@ -38,7 +39,7 @@
 
 [Luis Abarca](https://github.com/TheLuisAbarca)
 
-Last Edited on: 16/11/2021
+Last Edited on: 10/12/2021
 <!--
 **TheLuisAbarca/TheLuisAbarca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
