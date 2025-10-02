@@ -14,11 +14,16 @@
 [<img src="https://cdn.iconscout.com/icon/free/png-256/android-3521272-2944776.png" alt="android" width="100">](https://developer.android.com/reference)
 -->
 
-
+<!--
 [<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="65">](mailto:arclaav.adm@gmail.com)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" width="50">](https://t.me/laavLibra)
+-->
+## Contact me on: ##
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="65">](mailto:arclaav.adm@gmail.com)
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" width="50">](https://t.me/laavLibra)
 
-
+## My Skills ##
+[![My Skills](https://skillicons.dev/icons?i=angular,bash,html,css,js,mongodb,mysql,nodejs,ts,vscode,linux,windows&perline=3)]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLuisAbarca&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
 <!--
